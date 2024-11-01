@@ -1,2 +1,2 @@
 # PYEF
-PYE
+Probabilidad y estadística fundamental orientada a ciencias económicas.
